@@ -1,7 +1,9 @@
 # Completed
 
 &check; Foundations
+
 &#10005; Intermediate HTML CSS
+
 &#10005; Avanced HTML CSS / Animation
 
 
