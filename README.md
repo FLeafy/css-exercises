@@ -3,8 +3,8 @@
 1. **Foundations** 
     - Intro to CSS &check;
     - Cascade &check;
+    - Block and Inline &check; 
     - Flex &#10005; 
-    - Block and Inline &#10005; 
 2. **Intermediate HTML CSS** &#10005; 
     - Positioning Grid &#10005; 
     - Advanced Grid &#10005; 
